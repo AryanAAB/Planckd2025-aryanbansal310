@@ -11,12 +11,14 @@ This repository contains code, notebooks, and scripts implementing multiple prob
 
 It includes implementations and simulations of:
 1. **Classical Random Walks (1D)**  
-2. **Quantum Walks** — Pauli-X and Hadamard coin variants  
-3. **Quantum Walks on Graphs** — using Grover coins and shift operators  
-4. **Adiabatic Quantum Computation (AQC)** and spectral gap analysis  
-5. **Quantum State Estimation / Tomography**
-6. ****
-7. ****
+2. **Quantum Coin Flip**
+3. **Superposed Walker** — using Grover coins and shift operators  
+4. **Graph-Based Computation**
+5. ** State Estimation**
+6. **Quantum Oscillator Search**
+7. **Slow and Steady Wins the Quantum Race**
+8. **Bridging QAOA and Adiabatic Paths**
+9. **Decoherence, Measurements, and Quantum Search Breakdown**
 
 The notebook code demonstrates step-by-step transitions from classical stochastic models to quantum coherent dynamics, leading up to adiabatic and QAOA-style formulations.
 
