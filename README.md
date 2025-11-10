@@ -1,5 +1,5 @@
 # Planck’d 2025 – Quantum Algo Track
-**Author:** *Aryan Bansal*, *Akshat Bhatra*, *Abhirath Adamane*  
+**Author:** *Aryan Bansal*, *Akshat Batra*, *Abhirath Adamane*  
 **Institution:** IIIT Bangalore  
 **Event:** Qimaya @ Planck’d 2025  
 **Track:** Quantum Algorithms & Simulation  
