@@ -1,5 +1,5 @@
 # Planck’d 2025 – Quantum Algo Track
-**Author:** *[Your Name]*  
+**Author:** *Aryan Bansal*, *Akshat Bhatra*, *Abhirath Adamane*  
 **Institution:** IIIT Bangalore  
 **Event:** Qimaya @ Planck’d 2025  
 **Track:** Quantum Algorithms & Simulation  
@@ -14,7 +14,9 @@ It includes implementations and simulations of:
 2. **Quantum Walks** — Pauli-X and Hadamard coin variants  
 3. **Quantum Walks on Graphs** — using Grover coins and shift operators  
 4. **Adiabatic Quantum Computation (AQC)** and spectral gap analysis  
-5. **Quantum State Estimation / Tomography**  
+5. **Quantum State Estimation / Tomography**
+6. ****
+7. ****
 
 The notebook code demonstrates step-by-step transitions from classical stochastic models to quantum coherent dynamics, leading up to adiabatic and QAOA-style formulations.
 
@@ -39,6 +41,7 @@ QuantumAlgoTrack/
 │   ├─ Coupling matrix computation
 │   └─ Time-evolution & fidelity evaluation
 │
+├── Report.pdf                       #   
 └── README.md                        # (this file)
 ```
 
